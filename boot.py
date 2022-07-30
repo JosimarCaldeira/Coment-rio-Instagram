@@ -30,6 +30,6 @@ if comentario:
    rob()
 
 else:
-   print('A imagem que estamos procurando não esta na tela')
+   print('A imagem que estamos procurando não esta na tela!')
    exit()   
   
