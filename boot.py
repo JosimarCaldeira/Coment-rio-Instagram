@@ -24,7 +24,7 @@ if comentario:
 
 
 
- while cont<500:
+ while cont<1000:
    cont=cont+1
    print(cont)
    rob()
